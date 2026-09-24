@@ -232,20 +232,7 @@ bằng Android Studio.
 
 **Repository:** `BTLQLBaiDoXe`
 
-## 12. Hướng phát triển
-
-Có thể mở rộng thêm:
-
-- Đăng nhập và phân quyền.
-- Quản lý nhân viên.
-- QR Code.
-- Nhận diện biển số bằng camera.
-- SQLite/Room/Firebase.
-- Xuất Excel/PDF.
-- Đồng bộ dữ liệu trực tuyến.
-- Thống kê và báo cáo nâng cao.
-
-## 13. Tác giả
+## 12. Tác giả
 
 **trinhxuandat567-pixel**
 
