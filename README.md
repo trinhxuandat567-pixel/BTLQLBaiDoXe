@@ -266,3 +266,4 @@ Xe vào → Tính phí → Xe ra
         ↓
 Lưu XML → Lịch sử → Thống kê
 ```
+Enter
