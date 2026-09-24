@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string
+        name="app_name">BTLQLBaiDoXe</string>
+    <string
+        name="brand">SmartPark</string>
+    <string
+        name="logo_letter">P</string>
+    <string
+        name="money_icon">💰</string>
+    <string
+        name="subtitle">Quản lý bãi đỗ xe</string>
+    <string
+        name="nav_stats">Thống kê</string>
+    <string
+        name="nav_map">Sơ đồ bãi</string>
+    <string
+        name="nav_price">Bảng giá</string>
+    <string
+        name="nav_history">Lịch sử xe</string>
+    <string
+        name="title_parking_map">Sơ đồ bãi</string>
+    <string
+        name="search_parking">Tìm vị trí, biển số...</string>
+    <string
+        name="filter_label">Lọc ô:</string>
+    <string
+        name="filter_all">Tất cả</string>
+    <string
+        name="filter_empty">Trống</string>
+    <string
+        name="filter_full">Có xe</string>
+    <string
+        name="today">Hôm nay</string>
+    <string
+        name="this_week">Tuần này</string>
+    <string
+        name="this_month">Tháng này</string>
+    <string
+        name="revenue">DOANH THU THỰC THU</string>
+    <string
+        name="entries">LƯỢT XE VÀO</string>
+    <string
+        name="exits">LƯỢT XE RA</string>
+    <string
+        name="fill_rate">TỶ LỆ TẢI BÃI XE</string>
+    <string
+        name="zone_status">Trạng thái từng khu vực</string>
+    <string
+        name="zone_a">Khu A (Ô tô)</string>
+    <string
+        name="zone_b">Khu B (Xe máy)</string>
+    <string
+        name="zone_c">Khu C (Xe đạp)</string>
+    <string
+        name="zone_header_a">KHU A - Ô TÔ</string>
+    <string
+        name="zone_header_b">KHU B - XE MÁY</string>
+    <string
+        name="zone_header_c">KHU C - XE ĐẠP</string>
+    <string
+        name="zone_spaces">%1$d ô</string>
+    <string
+        name="zone_count">%1$d / %2$d xe</string>
+    <string
+        name="zone_zero">0 / 0 xe</string>
+    <string
+        name="rate_summary">%1$d / %2$d xe (%3$d%%)</string>
+    <string
+        name="stats_viewing">Đang xem: %1$s • %2$s</string>
+    <string
+        name="stats_result">Trong %1$s, bãi xe có %2$d lượt xe vào, %3$d lượt xe đã xuất và thu được %4$s.</string>
+    <string
+        name="price_car">🚗 Biểu phí Ô tô (Khu A)</string>
+    <string
+        name="price_motor">🏍️ Biểu phí Xe máy (Khu B)</string>
+    <string
+        name="price_bike">🚲 Biểu phí Xe đạp (Khu C)</string>
+    <string
+        name="price_car_first">Giá 2 giờ đầu (VNĐ)</string>
+    <string
+        name="price_hour_next">Giá mỗi giờ tiếp theo (VNĐ)</string>
+    <string
+        name="price_turn">Giá theo lượt (VNĐ)</string>
+    <string
+        name="price_night">Giá qua đêm trên 12 giờ (VNĐ)</string>
+    <string
+        name="price_save">💾 Cập nhật bảng giá</string>
+    <string
+        name="price_updated">Đã cập nhật bảng giá!</string>
+    <string
+        name="price_invalid">Vui lòng nhập giá hợp lệ!</string>
+    <string
+        name="enter_plate_hint">Nhập biển số</string>
+    <string
+        name="type_motor">Xe máy</string>
+    <string
+        name="type_car">Ô tô</string>
+    <string
+        name="type_bike">Xe đạp</string>
+    <string
+        name="confirm_in">Xác nhận</string>
+    <string
+        name="confirm_out">Xác nhận ra</string>
+    <string
+        name="cancel">Hủy</string>
+    <string
+        name="close">Đóng</string>
+    <string
+        name="spot_empty">TRỐNG</string>
+    <string
+        name="ticket_auto">Mã vé: %1$s</string>
+    <string
+        name="checkin_title">Nhập xe vào ô %1$s</string>
+    <string
+        name="enter_plate">Vui lòng nhập biển số!</string>
+    <string
+        name="checkin_success">Đã nhập xe!</string>
+    <string
+        name="save_error">Lỗi khi lưu dữ liệu!</string>
+    <string
+        name="no_parking_record">Không tìm thấy dữ liệu gửi xe!</string>
+    <string
+        name="checkout_title">Chi tiết ô %1$s</string>
+    <string
+        name="checkout_info">Mã vé: %1$s
+Biển số: %2$s
+Loại xe: %3$s
+Thời gian vào: %4$s</string>
+    <string
+        name="checkout_fee">Phí: %1$s</string>
+    <string
+        name="checkout_message">%1$s
+
+%2$s</string>
+    <string
+        name="checkout_success">Xe đã ra khỏi ô %1$s</string>
+    <string
+        name="checkout_error">Lỗi khi cập nhật xe!</string>
+    <string
+        name="history_search">Tìm biển số, mã vé, vị trí...</string>
+    <string
+        name="history_title">Vé: %1$s | %2$s</string>
+    <string
+        name="history_detail">Vị trí: %1$s (%2$s) | Vào: %3$s</string>
+    <string
+        name="history_sending">ĐANG GỬI</string>
+    <string
+        name="history_exported">ĐÃ XUẤT · %1$s</string>
+    <string
+        name="history_total">Tổng: %1$d lượt</string>
+    <string
+        name="history_total_zero">Tổng: 0 lượt</string>
+    <string
+        name="history_heading">📋 Nhật ký giao dịch xe</string>
+    <string
+        name="all_zero">0 VNĐ</string>
+    <string
+        name="zero_count">0</string>
+    <string
+        name="zero_rate">0 / 0 xe (0%)</string>
+    <string
+        name="stats_default">Trong hôm nay, bãi xe có 0 lượt xe vào, 0 lượt xe đã xuất và thu được 0 VNĐ.</string>
+    <string
+        name="zone_hint">Chạm vào từng khu vực để xem sơ đồ ô đỗ</string>
+    <string
+        name="stats_today_default">Đang xem: Hôm nay</string>
+    <string
+        name="zone_arrow">›</string>
+</resources>

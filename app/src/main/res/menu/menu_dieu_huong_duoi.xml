@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_tong_quan"
+        android:icon="@android:drawable/ic_menu_compass"
+        android:title="@string/nav_stats"/>
+    <item
+        android:id="@+id/nav_so_do"
+        android:icon="@android:drawable/ic_dialog_map"
+        android:title="@string/nav_map"/>
+    <item
+        android:id="@+id/nav_bang_gia"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="@string/nav_price"/>
+    <item
+        android:id="@+id/nav_lich_su"
+        android:icon="@android:drawable/ic_menu_recent_history"
+        android:title="@string/nav_history"/>
+</menu>
